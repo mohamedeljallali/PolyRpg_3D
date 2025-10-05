@@ -19,9 +19,9 @@ The game combines simple low-poly visuals with engaging gameplay mechanics, aimi
 1. Clone the repository:  
    ```bash
    https://github.com/mohamedeljallali/PolyRpg_3D.git
-
-2. Open the project in Unity (version 2022.3.12f1 recommended).
-3. Build the game for Windows using Unity's Build Settings.
+2. Go to **Game Build** folder and run **PolyRpg.exe**
+3. The game will start play directly
+4. To Exit click on **EXIT** button on top right of screen
 
 ## Controls 🕹
 - W/A/S/D – Move character
